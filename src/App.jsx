@@ -7,12 +7,6 @@ function App() {
   return (
     <div className='App'>
       <Navbar/>
-      <h2>
-        <Link to='/'>Moviapp</Link>
-      </h2>
-      <Link to='/movie/1'>Movie</Link>
-      <Link to='/search'>Search</Link>
-      <h2>Movies</h2>
       <Outlet />
     </div>
   );
