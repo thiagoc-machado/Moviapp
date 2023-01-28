@@ -5,8 +5,11 @@
   box-sizing: border-box;
 }
 body {
-  background-color: black;
-  color:#fff
+  background-image: linear-gradient(to bottom right, rgba(9, 3, 18, 0.304), rgba(16, 6, 2, 0.656)), url(../img/film.jpeg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color:#fff 
 }
 a{
   text-decoration: none;

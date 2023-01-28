@@ -21,13 +21,13 @@ const Navbar = () => {
     <nav id="navbar">
       <h2>
         <Link to="/">
-          <BiCameraMovie /> MoviesLib
+          <BiCameraMovie /> Moviapp
         </Link>
       </h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="Busque um filme"
+          placeholder="search for a movie"
           onChange={(e) => setSearch(e.target.value)}
           value={search}
         />
