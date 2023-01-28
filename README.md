@@ -20,5 +20,9 @@ The project uses the TMDB API for movie data, so you will need to sign up for an
 
 ## Tool
 - Vite, an interesting tool that is being used in modern projects, to improve the development experience.
+Deployment
+----------
+
+The application is deployed on <https://moviapp-thiago.netlify.app/>
 
 Overall, this project serves as a great introduction to using React for building dynamic, data-driven web applications and provides a solid foundation for more complex projects.
